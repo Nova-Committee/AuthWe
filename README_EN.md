@@ -28,8 +28,8 @@
 
 <p align="center">
     <a href="README.md">简体中文</a> |
-    <a href="https://github.com/Nova-Committee/McBot/blob/all/README_EN.md#lts">LTS</a> |
-    <a href="https://github.com/Nova-Committee/McBot/blob/all/README_EN.md#plan">PLAN</a>
+    <a href="https://github.com/Nova-Committee/AuthWe/blob/all/README_EN.md#lts">LTS</a> |
+    <a href="https://github.com/Nova-Committee/AuthWe/blob/all/README_EN.md#plan">PLAN</a>
 </p>
 
 # LTS

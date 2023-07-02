@@ -32,8 +32,8 @@
 
 <p align="center">
     <a href="README_EN.md">English</a> |
-    <a href="https://github.com/Nova-Committee/McBot#%E9%95%BF%E6%9C%9F%E6%94%AF%E6%8C%81%E7%89%88%E6%9C%AC">长期支持版本</a> |
-    <a href="https://github.com/Nova-Committee/McBot#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B">计划</a>
+    <a href="https://github.com/Nova-Committee/AuthWe#%E9%95%BF%E6%9C%9F%E6%94%AF%E6%8C%81%E7%89%88%E6%9C%AC">长期支持版本</a> |
+    <a href="https://github.com/Nova-Committee/AuthWe#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B">计划</a>
 </p>
 
 # 长期支持版本
