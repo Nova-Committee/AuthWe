@@ -2,10 +2,10 @@ modLoader="javafml"
 loaderVersion="[28,)"
 license="GNU AGPL 3.0"
 [[mods]]
-modId="mcbot"
+modId="authwe"
 version="${version}"
-displayName="McBot"
-logoFile= "assets/mcbot/icon.png"
+displayName="AuthWe"
+logoFile= "assets/authwe/icon.png"
 authors="cnlimiter"
 description='''
 Adds chat linking between QQ and Minecraft and QQ commands to request server data.
